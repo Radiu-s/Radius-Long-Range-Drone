@@ -78,7 +78,10 @@ Detailed notes → `docs/notes.md`
 ## 🔋 Battery Pack – Molicel P42A 6S2P (Li-ion 21700)
 
 <div align="center">
-  <img src="images/Drone/xt60.jpg" width="70%">
+  <img src="images/CustomBatteryPack/Li-ion.jpeg" width="35%">
+</div>
+<div align="center">
+  <img src="images/CustomBatteryPack/Li-ionCells(before pack).jpeg" width="35%">
 </div>
 
 - **Cell type:** 21700 Molicel P42A (12 cells total)  
