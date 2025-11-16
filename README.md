@@ -41,7 +41,7 @@ This repository serves as both a **technical build log** and a **personal engine
 - Vibration points reduced through cable positioning
 
 <div align="center">
-  <img src="photos/frame.jpg" width="75%">
+  <img src="images/Drone/frame.jpg" width="75%">
 </div>
 
 ---
@@ -54,9 +54,9 @@ This repository serves as both a **technical build log** and a **personal engine
 - Motor wire lengths optimized to reduce resonance
 
 <div align="center">
-  <img src="photos/ESC.jpeg" width="60%">
+  <img src="images/Drone/ESC.jpeg" width="60%">
   <br><br>
-  <img src="photos/FC-ESC-Map.jpeg" width="70%">
+  <img src="images/Drone/FC-ESC-Map.jpeg" width="70%">
 </div>
 
 ---
@@ -64,7 +64,7 @@ This repository serves as both a **technical build log** and a **personal engine
 ## 🔌 Wiring Notes
 
 <div align="center">
-  <img src="photos/Receiver.png" width="60%">
+  <img src="images/Drone/Receiver.png" width="60%">
 </div>
 
 - Walksnail VTX receives filtered power  
