@@ -75,4 +75,5 @@ This build is heavy, strong, and extremely stable.
 Most of the “feel” comes down to **CG placement**, clean wiring, and the P42A pack.  
 Overall, the drone feels like a long-range tank with smooth flying characteristics.
 
-#-Better than DJI. For Real.
+# Better than DJI. For Real.
+
