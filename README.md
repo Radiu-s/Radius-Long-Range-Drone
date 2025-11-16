@@ -64,21 +64,21 @@ This repository serves as both a **technical build log** and a **personal engine
 ## 🔌 Wiring Notes
 
 <div align="center">
-  <img src="images/Drone/Receiver.png" width="60%">
+  <img src="images/Drone/Receiver.PNG" width="60%">
 </div>
 
 - Walksnail VTX receives filtered power  
 - Crossfire antenna placed for maximum range and correct polarization  
 - All solder joints reinforced and isolated
 
-Detailed notes → `docs/wiring-notes.md`
+Detailed notes → `docs/notes.md`
 
 ---
 
 ## 🔋 Battery Pack – Molicel P42A 6S2P (Li-ion 21700)
 
 <div align="center">
-  <img src="photos/xt60.jpg" width="70%">
+  <img src="images/Drone/xt60.jpg" width="70%">
 </div>
 
 - **Cell type:** 21700 Molicel P42A (12 cells total)  
@@ -89,7 +89,7 @@ Detailed notes → `docs/wiring-notes.md`
 - Low voltage sag → ideal for long-range  
 - Protected with heat-shrink + foam + dual straps
 
-More technical notes: `docs/liion-pack.md`
+More technical notes: `docs/customLi-ionPack.md`
 
 ---
 
@@ -126,13 +126,13 @@ More technical notes: `docs/liion-pack.md`
 ## 🖼️ Gallery
 
 <div align="center">
-  <img src="photos/digitalcamera.jpg" width="70%">
+  <img src="images/Drone/digitalcamera.jpg" width="70%">
   <br><br>
-  <img src="photos/goggles1.jpeg" width="70%">
+  <img src="images/Drone/goggles1.jpeg" width="70%">
   <br><br>
-  <img src="photos/goggles2.jpeg" width="70%">
+  <img src="images/Drone/goggles2.jpeg" width="70%">
   <br><br>
-  <img src="photos/test.jpeg" width="75%">
+  <img src="images/Drone/test.jpeg" width="65%">
 </div>
 
 ---
@@ -140,6 +140,6 @@ More technical notes: `docs/liion-pack.md`
 ## 📝 Build Notes
 
 All personal notes & observations:  
-➡️ `docs/build-notes.md`
+➡️ `docs/notes.md`
 
 ---
