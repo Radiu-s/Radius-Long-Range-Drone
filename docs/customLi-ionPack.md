@@ -41,7 +41,7 @@ but also cruises forever without dipping voltage instantly.
 ## 🧱 Physical Build & Layout
 
 The layout is the classic “two parallel blocks stacked into a 6S line.”  
-Nothing fancy — just clean and compact.
+Nothing fancy  just clean and compact.
 
 What I used:
 
@@ -84,7 +84,7 @@ This pack isn’t lightweight (it’s 21700), but it gives endurance that most L
 ## 🌡️ Temperature & Sag
 
 The P42A cells stay surprisingly cool during cruise.  
-Only during full throttle climbs do they warm up a bit — nothing alarming.
+Only during full throttle climbs do they warm up a bit, nothing alarming.
 
 Voltage sag is minimal.  
 ---
@@ -114,8 +114,8 @@ Since the pack is heavy (~820–900g), I mount it:
 - With **two** straps  
 - With the GPS placed far enough to avoid interference
 – **NEVER forget the CG (Center of Gravity).**
-- Always push the pack as far back on the frame as possible — this drone flies like trash if the CG creeps forward.
-CG matters a LOT on a 7" rig — this layout keeps pitch stable.
+- Always push the pack as far back on the frame as possible; this drone flies like trash if the CG creeps forward.
+CG matters a LOT on a 7" rig; this layout keeps pitch stable.
 
 ---
 
@@ -140,8 +140,9 @@ The Molicel P42A 6S2P pack gives:
 - Reliable power for long-range  
 - Proper efficiency for 7" cruising
 
-It’s heavier than LiPo, sure — but for endurance, nothing beats it.
+It’s heavier than LiPo, sure but for endurance, nothing beats it.
 
 This pack transformed the feel of the drone,  
 and it’s the reason it can stay in the air for half an hour.
+
 
