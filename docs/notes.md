@@ -16,8 +16,9 @@ Just the things I noticed, learned, and would pay attention to next time.
 
 ## 🔌 Motor Wiring & ESC Notes
 
+- **NEVER, EVER FORGET TO CLEAN YOUR ESC-FC WITH ISOPROPYL ALCOHOL. IT REALLY PROTECTS FROM SHORT-CUT.!**
 - I shortened all motor wires to reduce vibration and keep the build clean.
-- ESC pads on the GEPRC stack are a bit fragile — don’t press too hard or you will lift a pad.
+- ESC pads on the GEPRC stack are a bit fragile, don’t press too hard or you will lift a pad.
 - Keeping wires tight and short helped reduce noise in iNav.
 
 ---
@@ -34,7 +35,7 @@ Just the things I noticed, learned, and would pay attention to next time.
 
 - BN-880 locks satellites fast AS LONG AS you keep it away from high-current wires.
 - Compass orientation matters a lot.  
-  I messed it up once — iNav went crazy until I recalibrated.
+  I messed it up once; iNav went crazy until I recalibrated.
 - Best position: far back, upper plate, clean sky view.
 
 ---
@@ -54,16 +55,16 @@ Just the things I noticed, learned, and would pay attention to next time.
   If its EC mode, It just shares 25 mW. You cant even pass your neighbor's yard...
 
 - Despite being heavy, the drone did not feel underpowered at all.
-- iNav POS Hold was surprisingly stable right out of the box.
+- iNav POS Hold surprisingly made the drone feel like a solid rock in mid-air.
 - HQProp 7x4x3 props fly smooth but drain more power than 2-blades.
-- Had no jello or weird vibrations — motor balance was solid.
+- Had no jello or weird vibrations; motor balance was solid.
 
 ---
 
 ## 🔧 Things I’d Watch Out for Next Time
 
 - Might try 7x3.5x2 props for better efficiency.
-- Battery wires could be slightly lighter — every gram counts.
+- Battery wires could be slightly lighter every gram counts.
 - Protect the ESC from dust; it gets dirty fast during field testing.
 - I’d add a bit more foam under the pack to reduce impact stress.
 
@@ -76,4 +77,5 @@ Most of the “feel” comes down to **CG placement**, clean wiring, and the P42
 Overall, the drone feels like a long-range tank with smooth flying characteristics.
 
 # Better than DJI. For Real.
+
 
